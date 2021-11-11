@@ -1,4 +1,6 @@
-# car-configurator
+# vue-2-cli-starter
+
+Kévin's Vue js 2 eslint prettier starter
 
 ## Project setup
 
